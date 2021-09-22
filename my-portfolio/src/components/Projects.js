@@ -17,11 +17,14 @@ export default function Projects() {
             Apps I've Built
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-           Covid-19 tracker and prediction test App
-           The Cocktail Db Website
-           Abraham's Royal bistro
-           To do list
-           Basic information website
+            <ul>
+           <li> Covid-19 tracker and prediction test App</li> 
+           <li>The Cocktail Db Website </li>
+           <li> Abraham's Royal bistro</li>
+           <li> To do list</li>
+           <li> An "About me" website</li>
+            </ul>
+
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
