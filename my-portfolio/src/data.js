@@ -48,9 +48,9 @@ export const testimonials = [
   {
     quote:
       "Fantastic work! I am just impressed by the service quality and working strategy. I hired him for the development of my online store and he has satisfied me to the full by delivering the exceptional solution. Abraham has a  great expertise,  dedicated, attentive, talented and care much about the client needs. Highly recommended",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
+    image: "./client-1.jpeg",
+    name: "Daisy Stacy",
+    company: "DOIS Branding Limited",
   },
   {
     quote:
