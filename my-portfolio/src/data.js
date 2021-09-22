@@ -47,7 +47,7 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
+      "Fantastic work! I am just impressed by the service quality and working strategy. I hired him for the development of my online store and he has satisfied me to the full by delivering the exceptional solution. Abraham has a  great expertise,  dedicated, attentive, talented and care much about the client needs. Highly recommended",
     image: "https://randomuser.me/api/portraits/men/1.jpg",
     name: "Jesse Hicks",
     company: "Zoozle",
@@ -67,5 +67,5 @@ export const skills = [
   "Python (Tkinter)",
   "Routing and Switching",
   "SQL",
-  "Material UI",
+  "Data structures and Algorithmns",
 ];
