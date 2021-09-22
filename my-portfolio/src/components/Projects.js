@@ -21,8 +21,8 @@ export default function Projects() {
            <li> Covid-19 tracker and prediction test App</li> 
            <li>The Cocktail Db Website </li>
            <li> Abraham's Royal bistro</li>
-           <li> To do list</li>
-           <li> An "About me" website</li>
+           <li> Epic  do list</li>
+           <li> My "About me" website</li>
             </ul>
 
           </p>

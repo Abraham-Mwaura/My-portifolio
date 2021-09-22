@@ -1,9 +1,9 @@
 export const projects = [
   {
     title: "Covid-19 tracker App",
-    subtitle: "Python, C++, Firebase and Mysq;",
+    subtitle: "Python, C++, Firebase and Mysql",
     description:
-      "An app that helps the users get accurate news and data about covid-19 also perform basic probability tests",
+      "An app that helps the users get accurate news about covid-19,  Perform basic probability tests. utilizes python treeview to help one view all the confirmed cases, deaths and Recoveries on Covid ",
     image: "./project-1.gif",
     link: "https://github.com/Abraham-Mwaura/Covid19-Group-project-with-tKinter",
 
@@ -39,7 +39,7 @@ export const projects = [
     subtitle: "HTML, CSS  & Vanilla js",
     description:
       "An implementation of the core web development technologies  that helps push  my `'about me'` in the WWW",
-    image: "./project-4.gif",
+    image: "./project-5.gif",
     link: "https://abraham-mwaura-7db335.netlify.app"
   },
 ];
@@ -62,10 +62,10 @@ export const testimonials = [
 ];
 
 export const skills = [
-  "JavaScript",
+  "C & C++ programming",
   "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
+  "Python (Tkinter)",
+  "Routing and Switching",
+  "SQL",
   "Material UI",
 ];
