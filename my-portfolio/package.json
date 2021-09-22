@@ -10,9 +10,9 @@
     "react-scripts": "^1.1.5"
   },
   "scripts": {
-    "start": "craco start",
-    "build": "craco build",
-    "test": "craco test",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./node_modules/.bin/netlify-lambda serve src",
+    "build": "react-scripts build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -27,3 +27,4 @@
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.2"
   }
 }
+
