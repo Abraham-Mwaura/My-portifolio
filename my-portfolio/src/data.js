@@ -3,7 +3,7 @@ export const projects = [
     title: "Covid-19 tracker And test prediction App",
     subtitle: "Python, C++, Firebase and Mysql",
     description:
-      "An app that helps the users get accurate news about covid-19,  Perform basic probability tests. utilizes python treeview to help one view all the confirmed cases, deaths and Recoveries on Covid ",
+      "An app that helps the users get accurate news about covid-19,  Perform basic a test prediction.View Worldwide confirmed cases, deaths and Recoveries",
     image: "./project-1.gif",
     link: "https://github.com/Abraham-Mwaura/Covid19-Group-project-with-tKinter",
 
@@ -14,15 +14,15 @@ export const projects = [
     subtitle: "React and Cocktail Db API",
     description:
       "perform a search on all types of cocktails worldwide, ingridients, make and how served",
-    image: "./project-2.gif",
+    image: "./project-3.gif",
     link: "https://abrahams-cocktaildb-api.netlify.app",
   },
   {
     title: "You-tube clone",
     subtitle: "React and Firebase",
     description:
-      "Inspired by the spirit of reverse engineering, includes all the basic functionalities of the iconic youtube app. Kinda getting my thinking in the shoes of google google engineers ",
-    image: "./project-3.gif",
+      "Inspired by the spirit of reverse engineering, includes all the basic functionalities of the iconic youtube app from their engineers.  ",
+    image: "./project-2.gif",
     link: "https://abe-youtube-clone.netlify.app",
   },
   {
