@@ -1,6 +1,6 @@
 export const projects = [
   {
-    title: "Covid-19 tracker App",
+    title: "Covid-19 tracker And test prediction App",
     subtitle: "Python, C++, Firebase and Mysql",
     description:
       "An app that helps the users get accurate news about covid-19,  Perform basic probability tests. utilizes python treeview to help one view all the confirmed cases, deaths and Recoveries on Covid ",
@@ -47,17 +47,17 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Fantastic work! I am just impressed by the service quality and working strategy. I hired him for the development of my online store and he has satisfied me to the full by delivering the exceptional solution. Abraham has a  great expertise,  dedicated, attentive, talented and care much about the client needs. Highly recommended",
+     `" Fantastic work! I am just impressed by the service quality and working strategy. I hired him for the development of my online store and he has satisfied me to the full by delivering the exceptional solution. Abraham has a  great expertise,  dedicated, attentive, talented and care much about the client needs. Highly recommended "`, 
     image: "./client-1.jpeg",
     name: "Daisy Stacy",
     company: "DOIS Branding Limited",
   },
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
+     `" He is a great team player with possesion of Excellent communication and leadership skills. What Amazes me most about Abraham is the flexibility when approaching a problem. He is one the guys who can night out and do anything humanly possible to get the job done. This guy is Worth working with.. "`, 
+    image: "./client-2.jpg",
+    name: "Trevor Jonathan",
+    company: "NextGen Electricals",
   },
 ];
 

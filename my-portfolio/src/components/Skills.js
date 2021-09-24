@@ -14,9 +14,10 @@ export default function Skills() {
             Skills &amp; Technologies
           </h1>
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-          Am a kinda Jack of all trades, With a major interest especially in upcoming technologies. 
-          I can also openly learn anything knew if it is to be requirement in somethin am working on.
-          Currently I have delved deeper in techs below.
+ 
+          Am a kinda Jack of all trades, With a major interest  in upcoming technologies. 
+          I can also swiftly  learn new techs if I realize I have to use them in something am working on.
+          Currently, I have delved deeper in the techs below.
           </p>
         </div>
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">

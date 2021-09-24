@@ -14,8 +14,8 @@ export default function About() {
             apps.
           </h1>
           <p className="mb-8 leading-relaxed">
-          Am a  Biomedical engineering student || a software development enthusiast || My future aspiration is to integrate the knowledge in medicine,
-          engineering and software development to help better humanity and solve common  society problems from a wide angle of knowledge.
+          I'm a software development enthusiast || A  Biomedical engineering student   || My future aspiration is to integrate the knowledge in software,
+          engineering and  medicine to help better humanity by solving common societal problems from a wide angle of knowledge.
           </p>
           <div className="flex justify-center">
             <a

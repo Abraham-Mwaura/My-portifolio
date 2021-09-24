@@ -71,11 +71,17 @@ export default function Contact() {
           onSubmit={handleSubmit}
           className="lg:w-1/3 md:w-1/2 flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0">
           <h2 className="text-white sm:text-4xl text-3xl mb-1 font-medium title-font">
-            Hire Me
+            Work with Me
           </h2>
           <p className="leading-relaxed mb-5">
-            I Would love to work with you if you have an upcoming project or a start-up, this is a surefire way to increase my expertise
-            as I nurture a technological niche in Your start-up or project. You can also drop a message for me there.
+             <p>  
+              I Would love to work with you if you have an upcoming project or a start-up, this is a surefire way to increase my expertise
+              as I nurture a technological niche in Your start-up or project.
+              </p>
+            <p>
+            You can also drop a message for me here, what do you think about this website?
+            </p>
+ 
           </p>
           <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-sm text-gray-400">
